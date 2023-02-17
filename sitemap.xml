@@ -6,6 +6,8 @@
     
     <lastmod>2023-02-16</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -13,6 +15,8 @@
     
     <lastmod>2023-02-16</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -20,6 +24,8 @@
     
     <lastmod>2023-02-16</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -27,13 +33,8 @@
     
     <lastmod>2023-02-16</lastmod>
     
-  </url>
-  
-  <url>
-    <loc>http://www.luckyzmj.cn/friends/index.html</loc>
-    
-    <lastmod>2023-02-16</lastmod>
-    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -41,6 +42,17 @@
     
     <lastmod>2023-02-16</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.luckyzmj.cn/friends/index.html</loc>
+    
+    <lastmod>2023-02-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -48,6 +60,8 @@
     
     <lastmod>2023-02-16</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -55,6 +69,8 @@
     
     <lastmod>2023-02-16</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -62,6 +78,8 @@
     
     <lastmod>2023-02-16</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -69,13 +87,8 @@
     
     <lastmod>2023-02-16</lastmod>
     
-  </url>
-  
-  <url>
-    <loc>http://www.luckyzmj.cn/archives/index.html</loc>
-    
-    <lastmod>2023-02-16</lastmod>
-    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -83,13 +96,17 @@
     
     <lastmod>2023-02-16</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://www.luckyzmj.cn/posts/17fd92ae.html</loc>
+    <loc>http://www.luckyzmj.cn/archives/index.html</loc>
     
     <lastmod>2023-02-16</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -97,6 +114,17 @@
     
     <lastmod>2023-02-16</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.luckyzmj.cn/posts/17fd92ae.html</loc>
+    
+    <lastmod>2023-02-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -104,6 +132,8 @@
     
     <lastmod>2023-02-16</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -111,6 +141,8 @@
     
     <lastmod>2023-02-16</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -118,13 +150,8 @@
     
     <lastmod>2023-02-16</lastmod>
     
-  </url>
-  
-  <url>
-    <loc>http://www.luckyzmj.cn/List/movies/index.html</loc>
-    
-    <lastmod>2023-02-16</lastmod>
-    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -132,6 +159,17 @@
     
     <lastmod>2023-02-16</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.luckyzmj.cn/List/movies/index.html</loc>
+    
+    <lastmod>2023-02-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -139,6 +177,8 @@
     
     <lastmod>2023-02-16</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -146,13 +186,8 @@
     
     <lastmod>2023-02-16</lastmod>
     
-  </url>
-  
-  <url>
-    <loc>http://www.luckyzmj.cn/List/galleries/%E7%94%9C%E7%BE%8E%E9%A3%9F%E5%93%81/index.html</loc>
-    
-    <lastmod>2023-02-16</lastmod>
-    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -160,20 +195,17 @@
     
     <lastmod>2023-02-16</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://www.luckyzmj.cn/List/galleries/%E6%B8%85%E6%96%B0%E8%8A%B1%E5%8D%89/index.html</loc>
+    <loc>http://www.luckyzmj.cn/List/galleries/%E7%94%9C%E7%BE%8E%E9%A3%9F%E5%93%81/index.html</loc>
     
     <lastmod>2023-02-16</lastmod>
     
-  </url>
-  
-  <url>
-    <loc>http://www.luckyzmj.cn/List/galleries/%E7%92%80%E7%92%A8%E6%98%9F%E7%A9%BA/index.html</loc>
-    
-    <lastmod>2023-02-16</lastmod>
-    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -181,13 +213,26 @@
     
     <lastmod>2023-02-16</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://www.luckyzmj.cn/List/galleries/%E5%91%86%E8%90%8C%E7%8C%AB%E5%92%AA/index.html</loc>
+    <loc>http://www.luckyzmj.cn/List/galleries/%E6%B8%85%E6%96%B0%E8%8A%B1%E5%8D%89/index.html</loc>
     
     <lastmod>2023-02-16</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.luckyzmj.cn/List/galleries/%E7%92%80%E7%92%A8%E6%98%9F%E7%A9%BA/index.html</loc>
+    
+    <lastmod>2023-02-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -195,6 +240,17 @@
     
     <lastmod>2023-02-16</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.luckyzmj.cn/List/galleries/%E5%91%86%E8%90%8C%E7%8C%AB%E5%92%AA/index.html</loc>
+    
+    <lastmod>2023-02-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -202,6 +258,8 @@
     
     <lastmod>2023-02-16</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -209,6 +267,8 @@
     
     <lastmod>2023-02-16</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -216,13 +276,8 @@
     
     <lastmod>2023-02-16</lastmod>
     
-  </url>
-  
-  <url>
-    <loc>http://www.luckyzmj.cn/List/galleries/%E5%8A%A8%E6%BC%AB%E4%BA%BA%E7%89%A9/index.html</loc>
-    
-    <lastmod>2023-02-16</lastmod>
-    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -230,6 +285,17 @@
     
     <lastmod>2023-02-16</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.luckyzmj.cn/List/galleries/%E5%8A%A8%E6%BC%AB%E4%BA%BA%E7%89%A9/index.html</loc>
+    
+    <lastmod>2023-02-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -237,6 +303,8 @@
     
     <lastmod>2023-02-16</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -244,6 +312,8 @@
     
     <lastmod>2023-02-16</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
 
@@ -258,78 +328,78 @@
   <url>
     <loc>http://www.luckyzmj.cn/tags/Hexo/</loc>
     <lastmod>2023-02-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://www.luckyzmj.cn/tags/Github/</loc>
     <lastmod>2023-02-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://www.luckyzmj.cn/tags/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2023-02-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.luckyzmj.cn/tags/%E6%B8%B2%E6%9F%93%E7%BB%95%E8%BF%87/</loc>
-    <lastmod>2023-02-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.luckyzmj.cn/tags/hexo-blog-lucky/</loc>
-    <lastmod>2023-02-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.luckyzmj.cn/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2023-02-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://www.luckyzmj.cn/tags/PicGo/</loc>
     <lastmod>2023-02-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://www.luckyzmj.cn/tags/GitHub%E5%9B%BE%E5%BA%8A/</loc>
     <lastmod>2023-02-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.luckyzmj.cn/tags/%E6%B8%B2%E6%9F%93%E7%BB%95%E8%BF%87/</loc>
+    <lastmod>2023-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://www.luckyzmj.cn/tags/%E9%98%BF%E9%87%8C%E4%BA%91/</loc>
     <lastmod>2023-02-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.luckyzmj.cn/tags/hexo-blog-lucky/</loc>
+    <lastmod>2023-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.luckyzmj.cn/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2023-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://www.luckyzmj.cn/tags/jQuery-CSS3/</loc>
     <lastmod>2023-02-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://www.luckyzmj.cn/tags/%E7%B2%92%E5%AD%90%E7%89%B9%E6%95%88/</loc>
     <lastmod>2023-02-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
 
@@ -337,15 +407,15 @@
   <url>
     <loc>http://www.luckyzmj.cn/categories/%E5%8D%9A%E5%AE%A2%E7%AF%87/</loc>
     <lastmod>2023-02-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://www.luckyzmj.cn/categories/%E5%89%8D%E7%AB%AF%E7%AF%87/</loc>
     <lastmod>2023-02-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
 </urlset>
